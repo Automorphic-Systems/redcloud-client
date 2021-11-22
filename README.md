@@ -1,0 +1,3 @@
+redcloud-client
+
+Simple C# client for communicating with redcloud nodes, controllers, and collectors.  A work very much in progress.....
